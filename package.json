@@ -1,0 +1,14 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "prompt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "prompt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
